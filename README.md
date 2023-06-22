@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Auto Attendance**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **dart , html , css and javascript**
 
