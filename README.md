@@ -25,4 +25,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farazkhanbwn&show_icons=true&locale=en" alt="farazkhanbwn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farazkhanbwn&" alt="farazkhanbwn" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user="Farazkhanbwn")](https://git.io/streak-stats)
