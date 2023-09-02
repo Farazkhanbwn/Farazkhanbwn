@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **dart , html , css and javascript**
+- 💬 Ask me about ** HTML CSS JS REACT DART**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
