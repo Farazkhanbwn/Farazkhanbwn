@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React App**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m Learning **Web Development**
 
 - 💬 Ask me about ** HTML CSS JS REACT DART**
 
