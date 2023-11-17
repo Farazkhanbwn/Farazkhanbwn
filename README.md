@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farazkhanbwn" alt="farazkhanbwn" /></a> </p>
 
-- 🔭 I’m currently working on **NEXT APPS With Husky Environment**
+- 🔭 I’m currently working on **NEXT APPS With In Husky Environment**
 
 - 🌱 I’m Learning **Web Development**
 
