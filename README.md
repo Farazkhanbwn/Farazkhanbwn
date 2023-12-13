@@ -9,7 +9,7 @@
 
 - 🌱 I’m Learning **Web Development**
 
-- 💬 Ask me about ** HTML CSS JS REACT **
+- 💬 Ask me about ** JAVASCRIPT REACT NEXT**
 
 <h3 align="left">Connect with me </h3>
 <p align="left">
