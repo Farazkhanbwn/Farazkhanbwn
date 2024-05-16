@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **NEXT APP With Husky Environments**
 
-- 🌱 I’m Learning **Web Development**
+- 🌱 I’m Learning  **Web Development**
 
 - 💬 Ask me about **JAVASCRIPT REACT NEXT EXPRESS MONGO-DB NODE **
 
