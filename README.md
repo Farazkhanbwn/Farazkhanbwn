@@ -9,7 +9,7 @@
 
 - 🌱 I’m Learning **Web Development**
 
-- 💬 Ask me about **JAVASCRIPT REACT NEXT EXPRESS MONGO-DB NODE **
+- 💬 Ask me about **JAVASCRIPT REACT NEXT EXPRESS MONGO-DB NODE DOCKER **
 
 <h3 align="left">Connect with me </h3>
 <p align="left">
